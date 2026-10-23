@@ -9,6 +9,8 @@ Focused on building automation skills to improve test coverage, repeatability, a
 <p>
   <a href="mailto:benalinrexi06@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/benalin-rexi-d-a88844230">LinkedIn</a>
+  <a href="https://benalinrexi06-sudo.github.io/">Potfolio</a>
+  <a href="https://github.com/benalinrexi06-sudo">Github</a>
 </p>
 
 </div>
